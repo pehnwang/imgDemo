@@ -1,0 +1,16 @@
+{
+  "name": "imdemo",
+  "version": "0.0.1",
+  "dependencies": [
+    "sqlite3",
+    {
+      "name": "imgui",
+      "version>=": "1.91.0",
+      "features": [
+        "docking-experimental",
+        "win32-binding",
+        "dx12-binding"
+      ]
+    }
+  ]
+}
