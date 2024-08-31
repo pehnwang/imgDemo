@@ -1,0 +1,1 @@
+# vc2022 + vcpkg [manifest mode] + imgui [dxd12] + sqlite3 + poco
